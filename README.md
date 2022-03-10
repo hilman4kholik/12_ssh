@@ -1,4 +1,4 @@
-SIMPLE SSH AUTO LOGIN & SEND SHELLSCRIPT
+# SIMPLE SSH AUTO LOGIN & SEND SHELLSCRIPT
 
 file config.ini adalah untuk parameternya
 
@@ -20,8 +20,12 @@ cukup lakukan chmod +x auto_ssh, lalu jalankan dengan cara:
 ```
 ./auto_ssh
 ```
+![logo](https://github.com/hilman4kholik/12_ssh/raw/master/bin/example.jpeg)
 
 ini bisa berfungsi untuk semua distro linux.
 
+
+
 ====================================================================
+
 Jangan lupa berikan star dan sematkan sumber jika ini membantu anda.
