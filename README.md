@@ -28,4 +28,4 @@ ini bisa berfungsi untuk semua distro linux.
 
 ====================================================================
 
-Jangan lupa berikan star dan sematkan sumber jika ini membantu anda.
+Jangan lupa berikan star dan sematkan sumber jika ini membantu anda..
